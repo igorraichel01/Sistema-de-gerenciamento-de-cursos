@@ -1,0 +1,105 @@
+
+
+h1{
+	text-align:  center;
+	background-color:#473C8B;
+	color:white;
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+}
+
+#menu{
+	float:left;
+	margin-top: 50px;
+}
+#menu a{
+	text-decoration: none;
+	color:#1E90FF;
+	padding: 50px;
+	text-shadow: 1px 1px 2px #111111;
+}
+#menu a:hover{
+	background-color: green;
+	color :yellow;
+}
+#titulo{
+
+}
+#titulo2 p{
+	color:green;
+	margin-left:200px;
+    text-shadow: 1px 1px 2px #111111; 
+}
+
+	a{
+		margin-left:20px;
+		color:green;
+	}
+
+
+
+
+
+
+div.msgalerta2{
+	display:block;
+	width: 420px;
+	margin-right: 50px;
+	float:right;
+	color:yellow;
+	background-color:rgba(10,10,0,.5);
+
+}
+div.msgalerta1{
+	display:block;
+	width: 420px;
+	margin-right: 10px auto;
+	float:right;
+	color:green;
+}
+
+body{
+
+background-color:#00BFFF;
+
+}
+
+footer{
+	background-color:rgba(0,0,0,.2);
+	display: block;
+	float:left;
+
+}
+#direita{
+	width: 50%;
+	background-color:#B5B5B5;
+	height: 500px;
+	float:right;
+}
+table{
+	background-color:#473C8B;
+	width: 100%;
+	margin: auto;
+	color:white;
+}
+tr#titulo{
+	font-weight: bold;
+    
+
+}
+#esquerda{
+	width:49%;
+	background-color:#B5B5B5;
+	height: 500px;
+	float:left;
+}
+div.dado{
+	display:block;
+	padding: 10px;
+	float:left;
+	margin-left: 10px;
+	color:black;
+}
+div.afooter a{
+	color:white;
+}
+}
